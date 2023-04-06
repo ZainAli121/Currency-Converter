@@ -1,0 +1,15 @@
+Euro	0.011175	314.81
+Omani Rial	0.005225	748.71
+Indian Rupee	2.173161	3.52
+Qatari Riyal	0.049461	79.17
+Saudi Arabian Riyal	0.050956	76.84
+Turkish Lira	0.107358	14.97
+US Dollar	0.013588	288.25
+Japanese yen	0.013588	2.19
+Pound	0.013588	357.88
+Canadian dollar	0.013588	213.54
+Australian dollar	0.013588	191.85
+Chinese yuan	0.013588	41.86
+Russian ruble	0.013588	3.55
+Bangladeshi taka	0.013588	2.72
+United Arab Emirates dirham	0.013588	78.39
